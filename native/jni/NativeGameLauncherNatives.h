@@ -1,0 +1,13 @@
+/*
+ * NativeGameLauncherNatives.h
+ *
+ *  Created on: May 20, 2019
+ *      Author: chorm
+ */
+
+#ifndef NATIVE_JNI_NATIVEGAMELAUNCHERNATIVES_H__2019_05_20_01_19_36
+#define NATIVE_JNI_NATIVEGAMELAUNCHERNATIVES_H__2019_05_20_01_19_36
+
+
+
+#endif /* NATIVE_JNI_NATIVEGAMELAUNCHERNATIVES_H__2019_05_20_01_19_36 */
